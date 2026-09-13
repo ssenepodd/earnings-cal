@@ -1,0 +1,364 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ssenepodd//earnings_season_ics//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:한국 실적 시즌
+X-WR-TIMEZONE:Asia/Seoul
+X-WR-CALDESC:한국 주식시장 결산기별 실적 발표 구간과 정
+ 기보고서 법정 마감일. 맥미니 earnings_season_ics.py 가 자동
+  생성.
+BEGIN:VEVENT
+UID:earnings-season-202609@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261117
+SUMMARY:2026 3분기 실적 시즌
+DESCRIPTION:2026 3분기 결산 실적 발표 구간 (12월 결산법인 
+ 기준).\n시작 2026-10-01 = 결산기 종료 다음 첫 거래일.\n마
+ 감 2026-11-16 = 분기보고서 법정 제출기한(기간종료+45일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202609]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202609@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:3분기 분기보고서 마감
+DESCRIPTION:2026 3분기 분기보고서 법정 제출기한 (12월 결산
+ 법인).\n2026-09-30 종료 + 45일\, 주말·공휴일 이월 반영.\n\n
+ 제출이 이날 하루에 몰린다(2025년 3분기 76.6%).\n\n자동 생
+ 성: earnings_season_calendar.py (맥미니)\n[동기화 키: report-deadl
+ ine:202609]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202612@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270401
+SUMMARY:2026 연간 실적 시즌
+DESCRIPTION:2026 연간 결산 실적 발표 구간 (12월 결산법인 기
+ 준).\n시작 2027-01-04 = 결산기 종료 다음 첫 거래일.\n마감 
+ 2027-03-31 = 사업보고서 법정 제출기한(사업연도말+90일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202612]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202612@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:연간 사업보고서 마감
+DESCRIPTION:2026 연간 사업보고서 법정 제출기한 (12월 결산
+ 법인).\n2026-12-31 종료 + 90일.\n\n제출이 이날 하루에 몰린
+ 다(2025년 3분기 76.6%).\n\n자동 생성: earnings_season_calendar.py 
+ (맥미니)\n[동기화 키: report-deadline:202612]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202703@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270518
+SUMMARY:2027 1분기 실적 시즌
+DESCRIPTION:2027 1분기 결산 실적 발표 구간 (12월 결산법인 
+ 기준).\n시작 2027-04-01 = 결산기 종료 다음 첫 거래일.\n마
+ 감 2027-05-17 = 분기보고서 법정 제출기한(기간종료+45일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202703]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202703@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:1분기 분기보고서 마감
+DESCRIPTION:2027 1분기 분기보고서 법정 제출기한 (12월 결산
+ 법인).\n2027-03-31 종료 + 45일\, 주말·공휴일 이월 반영.\n\n
+ 제출이 이날 하루에 몰린다(2025년 3분기 76.6%).\n\n자동 생
+ 성: earnings_season_calendar.py (맥미니)\n[동기화 키: report-deadl
+ ine:202703]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202706@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270818
+SUMMARY:2027 반기 실적 시즌
+DESCRIPTION:2027 반기 결산 실적 발표 구간 (12월 결산법인 기
+ 준).\n시작 2027-07-01 = 결산기 종료 다음 첫 거래일.\n마감 
+ 2027-08-17 = 반기보고서 법정 제출기한(기간종료+45일\, 주
+ 말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부분
+ 이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)이
+  마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (맥
+ 미니)\n[동기화 키: earnings-season:202706]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202706@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:반기보고서 마감
+DESCRIPTION:2027 반기보고서 법정 제출기한 (12월 결산법인).\
+ n2027-06-30 종료 + 45일\, 주말·공휴일 이월 반영.\n\n제출이
+  이날 하루에 몰린다(2025년 3분기 76.6%).\n\n자동 생성: earn
+ ings_season_calendar.py (맥미니)\n[동기화 키: report-deadline:20270
+ 6]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202709@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271116
+SUMMARY:2027 3분기 실적 시즌
+DESCRIPTION:2027 3분기 결산 실적 발표 구간 (12월 결산법인 
+ 기준).\n시작 2027-10-01 = 결산기 종료 다음 첫 거래일.\n마
+ 감 2027-11-15 = 분기보고서 법정 제출기한(기간종료+45일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202709]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202709@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271116
+SUMMARY:3분기 분기보고서 마감
+DESCRIPTION:2027 3분기 분기보고서 법정 제출기한 (12월 결산
+ 법인).\n2027-09-30 종료 + 45일\, 주말·공휴일 이월 반영.\n\n
+ 제출이 이날 하루에 몰린다(2025년 3분기 76.6%).\n\n자동 생
+ 성: earnings_season_calendar.py (맥미니)\n[동기화 키: report-deadl
+ ine:202709]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202712@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280331
+SUMMARY:2027 연간 실적 시즌
+DESCRIPTION:2027 연간 결산 실적 발표 구간 (12월 결산법인 기
+ 준).\n시작 2028-01-03 = 결산기 종료 다음 첫 거래일.\n마감 
+ 2028-03-30 = 사업보고서 법정 제출기한(사업연도말+90일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202712]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202712@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20280330
+DTEND;VALUE=DATE:20280331
+SUMMARY:연간 사업보고서 마감
+DESCRIPTION:2027 연간 사업보고서 법정 제출기한 (12월 결산
+ 법인).\n2027-12-31 종료 + 90일.\n\n제출이 이날 하루에 몰린
+ 다(2025년 3분기 76.6%).\n\n자동 생성: earnings_season_calendar.py 
+ (맥미니)\n[동기화 키: report-deadline:202712]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202803@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20280403
+DTEND;VALUE=DATE:20280516
+SUMMARY:2028 1분기 실적 시즌
+DESCRIPTION:2028 1분기 결산 실적 발표 구간 (12월 결산법인 
+ 기준).\n시작 2028-04-03 = 결산기 종료 다음 첫 거래일.\n마
+ 감 2028-05-15 = 분기보고서 법정 제출기한(기간종료+45일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202803]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202803@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280516
+SUMMARY:1분기 분기보고서 마감
+DESCRIPTION:2028 1분기 분기보고서 법정 제출기한 (12월 결산
+ 법인).\n2028-03-31 종료 + 45일.\n\n제출이 이날 하루에 몰린
+ 다(2025년 3분기 76.6%).\n\n자동 생성: earnings_season_calendar.py 
+ (맥미니)\n[동기화 키: report-deadline:202803]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202806@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280815
+SUMMARY:2028 반기 실적 시즌
+DESCRIPTION:2028 반기 결산 실적 발표 구간 (12월 결산법인 기
+ 준).\n시작 2028-07-03 = 결산기 종료 다음 첫 거래일.\n마감 
+ 2028-08-14 = 반기보고서 법정 제출기한(기간종료+45일\, 주
+ 말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부분
+ 이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)이
+  마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (맥
+ 미니)\n[동기화 키: earnings-season:202806]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202806@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20280814
+DTEND;VALUE=DATE:20280815
+SUMMARY:반기보고서 마감
+DESCRIPTION:2028 반기보고서 법정 제출기한 (12월 결산법인).\
+ n2028-06-30 종료 + 45일.\n\n제출이 이날 하루에 몰린다(2025
+ 년 3분기 76.6%).\n\n자동 생성: earnings_season_calendar.py (맥미
+ 니)\n[동기화 키: report-deadline:202806]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202809@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20281006
+DTEND;VALUE=DATE:20281115
+SUMMARY:2028 3분기 실적 시즌
+DESCRIPTION:2028 3분기 결산 실적 발표 구간 (12월 결산법인 
+ 기준).\n시작 2028-10-06 = 결산기 종료 다음 첫 거래일.\n마
+ 감 2028-11-14 = 분기보고서 법정 제출기한(기간종료+45일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202809]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202809@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20281114
+DTEND;VALUE=DATE:20281115
+SUMMARY:3분기 분기보고서 마감
+DESCRIPTION:2028 3분기 분기보고서 법정 제출기한 (12월 결산
+ 법인).\n2028-09-30 종료 + 45일.\n\n제출이 이날 하루에 몰린
+ 다(2025년 3분기 76.6%).\n\n자동 생성: earnings_season_calendar.py 
+ (맥미니)\n[동기화 키: report-deadline:202809]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202812@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290403
+SUMMARY:2028 연간 실적 시즌
+DESCRIPTION:2028 연간 결산 실적 발표 구간 (12월 결산법인 기
+ 준).\n시작 2029-01-02 = 결산기 종료 다음 첫 거래일.\n마감 
+ 2029-04-02 = 사업보고서 법정 제출기한(사업연도말+90일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202812]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202812@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:연간 사업보고서 마감
+DESCRIPTION:2028 연간 사업보고서 법정 제출기한 (12월 결산
+ 법인).\n2028-12-31 종료 + 90일\, 주말·공휴일 이월 반영.\n\n
+ 제출이 이날 하루에 몰린다(2025년 3분기 76.6%).\n\n자동 생
+ 성: earnings_season_calendar.py (맥미니)\n[동기화 키: report-deadl
+ ine:202812]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202903@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290516
+SUMMARY:2029 1분기 실적 시즌
+DESCRIPTION:2029 1분기 결산 실적 발표 구간 (12월 결산법인 
+ 기준).\n시작 2029-04-02 = 결산기 종료 다음 첫 거래일.\n마
+ 감 2029-05-15 = 분기보고서 법정 제출기한(기간종료+45일\, 
+ 주말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부
+ 분이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)
+ 이 마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (
+ 맥미니)\n[동기화 키: earnings-season:202903]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202903@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20290515
+DTEND;VALUE=DATE:20290516
+SUMMARY:1분기 분기보고서 마감
+DESCRIPTION:2029 1분기 분기보고서 법정 제출기한 (12월 결산
+ 법인).\n2029-03-31 종료 + 45일.\n\n제출이 이날 하루에 몰린
+ 다(2025년 3분기 76.6%).\n\n자동 생성: earnings_season_calendar.py 
+ (맥미니)\n[동기화 키: report-deadline:202903]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-season-202906@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20290702
+DTEND;VALUE=DATE:20290815
+SUMMARY:2029 반기 실적 시즌
+DESCRIPTION:2029 반기 결산 실적 발표 구간 (12월 결산법인 기
+ 준).\n시작 2029-07-02 = 결산기 종료 다음 첫 거래일.\n마감 
+ 2029-08-14 = 반기보고서 법정 제출기한(기간종료+45일\, 주
+ 말·공휴일이면 다음 영업일).\n\n마감일 하루에 대부분
+ 이 몰린다 — 2025년 3분기 실측 3\,207건 중 2\,457건(76.6%)이
+  마감 당일 제출.\n\n자동 생성: earnings_season_calendar.py (맥
+ 미니)\n[동기화 키: earnings-season:202906]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:report-deadline-202906@earnings-season.ssenepodd
+DTSTAMP:20260913T190857Z
+DTSTART;VALUE=DATE:20290814
+DTEND;VALUE=DATE:20290815
+SUMMARY:반기보고서 마감
+DESCRIPTION:2029 반기보고서 법정 제출기한 (12월 결산법인).\
+ n2029-06-30 종료 + 45일.\n\n제출이 이날 하루에 몰린다(2025
+ 년 3분기 76.6%).\n\n자동 생성: earnings_season_calendar.py (맥미
+ 니)\n[동기화 키: report-deadline:202906]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
