@@ -13,7 +13,7 @@ X-WR-CALDESC:주간 프리뷰 P1 「영향도 랭킹 · 한국장 세션
  iew_calendar.py 가 월요일 프리뷰 뒤 자동 생성.
 BEGIN:VEVENT
 UID:wp-2026-09-14-658a6e1715@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260919
 SUMMARY:[2위] 대미투자 1호 MOU 서명 (날짜 미확정)
@@ -28,7 +28,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-e29ba86096@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:[4위] AI 감속 선언의 첫 프라이싱
@@ -41,7 +41,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-8cba3e5106@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:[4위] KRX 애프터마켓 개설
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-364819a3db@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:[4위] 가스텍 2026 개막 · 한화오션 부유식 데이터센
@@ -68,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-16c6d56578@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:[4위] 기아 PV7 최초 공개
@@ -81,7 +81,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-140239b37a@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260919
 SUMMARY:[5위] 미 하원 러시아 제재법안 표결 (날짜 미확정)
@@ -96,7 +96,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-5cd3b8e060@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:[3위] HD현대중공업 부분파업
@@ -110,7 +110,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-eda21000b2@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260917
 SUMMARY:[3위] SK하이닉스 임단협 조합원 재투표
@@ -124,7 +124,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-0d209a56a9@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:[7위] Lennar FY26 3Q 실적
@@ -137,7 +137,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:wp-2026-09-14-1eac77bdc4@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:[2위] BOJ 결정 · 총재 기자회견
@@ -149,28 +149,231 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:wp-2026-09-14-bf1bbe890b@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+UID:wp-2026-09-21-c738e0f8b4@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:[8위] 러시아 두마 선거
-DESCRIPTION:한국장 영향 세션: 2026-09-21(월)\n지배 기준: ①시
- 점(다음 주 밖)\n출처 성격: 앵커 이월\n\n출처: 주간 프리
- 뷰(2026-09-14 주) · P1 영향도 랭킹\n자동 생성: weekly_preview_
- calendar.py (맥미니)\n[동기화 키: wp-2026-09-14-bf1bbe890b]
+DTEND;VALUE=DATE:20260923
+SUMMARY:[2위] 대미 투자 국회 보고
+DESCRIPTION:한국장 영향 세션: 2026-09-21(월) ~ 2026-09-22(화)\n지
+ 배 기준: ④포지션 관련성 + ⑤비가역성\n출처 성격: 확
+ 정 캘린더\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 
+ 랭킹\n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 
+ 키: wp-2026-09-21-c738e0f8b4]
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:wp-2026-09-14-b7fc38cc96@weekly-preview.ssenepodd
-DTSTAMP:20260914T172153Z
+UID:wp-2026-09-21-adaf94e499@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+SUMMARY:[2위] 웨스팅하우스 미국 IPO 공모신고서 제출 추진 
+ (날짜 미확정)
+DESCRIPTION:한국장 영향 세션: 2026-09-21(월) ~ 2026-09-25(금) · 
+ 문서가 날짜를 확정하지 않아 대상 주 전체에 걸쳐 둔다
+ \n출처 성격: 주말 보도\n\n출처: 주간 프리뷰(2026-09-21 주)
+  · P1 영향도 랭킹\n자동 생성: weekly_preview_calendar.py (맥미
+ 니)\n[동기화 키: wp-2026-09-21-adaf94e499]
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-3fbd69f871@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:[8위] 미국 쿼드러플 위칭
-DESCRIPTION:한국장 영향 세션: 2026-09-21(월)\n지배 기준: ①시
- 점(다음 주 밖)\n출처 성격: 확정 캘린더\n\n출처: 주간 프
- 리뷰(2026-09-14 주) · P1 영향도 랭킹\n자동 생성: weekly_previ
- ew_calendar.py (맥미니)\n[동기화 키: wp-2026-09-14-b7fc38cc96]
+SUMMARY:[3위] 관세청 9월 1~20일 수출입 잠정치
+DESCRIPTION:한국장 영향 세션: 2026-09-21(월)\n지배 기준: ①KST
+  시점 + ③수렴\n출처 성격: 확정 캘린더\n\n출처: 주간 프
+ 리뷰(2026-09-21 주) · P1 영향도 랭킹\n자동 생성: weekly_previ
+ ew_calendar.py (맥미니)\n[동기화 키: wp-2026-09-21-3fbd69f871]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-6f12f9865d@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:[3위] 네오사피엔스 코스닥 신규 상장
+DESCRIPTION:한국장 영향 세션: 2026-09-21(월)\n출처 성격: 국내
+  공지\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭킹
+ \n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키: w
+ p-2026-09-21-6f12f9865d]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-9736ba02ee@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:[부차] 중국 9월 LPR 발표(동결 전망)
+DESCRIPTION:한국장 영향 세션: 2026-09-21(월)\n출처 성격: 확정
+  캘린더\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭
+ 킹\n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키
+ : wp-2026-09-21-9736ba02ee]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-ae309a0425@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[3위] 시카고 연은 전미활동지수(8월)
+DESCRIPTION:한국장 영향 세션: 2026-09-22(화)\n출처 성격: 확정
+  캘린더\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭
+ 킹\n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키
+ : wp-2026-09-21-ae309a0425]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-9a9ffc2c6b@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[5위] 한국은행 금융안정 상황(11시) (09-22 11:00 KST 발
+ 표)
+DESCRIPTION:한국장 영향 세션: 2026-09-22(화)\n발표: 09-22 11:00 K
+ ST\n지배 기준: ④포지션 관련성\n출처 성격: 확정 캘린더
+ \n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭킹\n자
+ 동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키: wp-202
+ 6-09-21-9a9ffc2c6b]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-b06933f49c@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[4위] LG 중간배당금 지급
+DESCRIPTION:한국장 영향 세션: 2026-09-23(수)\n출처 성격: 국내
+  공지\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭킹
+ \n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키: w
+ p-2026-09-21-b06933f49c]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-4df1492ef3@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[4위] S&P Global 9월 PMI 플래시(일본 · 유로존)
+DESCRIPTION:한국장 영향 세션: 2026-09-23(수)\n지배 기준: ①KST
+  시점 + ⑤비가역성\n출처 성격: 확정 캘린더\n\n출처: 주
+ 간 프리뷰(2026-09-21 주) · P1 영향도 랭킹\n자동 생성: weekl
+ y_preview_calendar.py (맥미니)\n[동기화 키: wp-2026-09-21-4df1492ef
+ 3]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-48724a9376@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[4위] 한국은행 9월 소비자동향조사 (09-23 06:00 KST 발
+ 표)
+DESCRIPTION:한국장 영향 세션: 2026-09-23(수)\n발표: 09-23 06:00 K
+ ST\n출처 성격: 확정 캘린더\n\n출처: 주간 프리뷰(2026-09-21
+  주) · P1 영향도 랭킹\n자동 생성: weekly_preview_calendar.py (
+ 맥미니)\n[동기화 키: wp-2026-09-21-48724a9376]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-0951fbaa1a@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[5위] 미국 리치몬드 연은 제조업지수(9월)
+DESCRIPTION:한국장 영향 세션: 2026-09-23(수)\n출처 성격: 확정
+  캘린더\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭
+ 킹\n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키
+ : wp-2026-09-21-0951fbaa1a]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-2429fb9634@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[6위] KB Home 실적
+DESCRIPTION:한국장 영향 세션: 2026-09-23(수)\n출처 성격: 확정
+  캘린더\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭
+ 킹\n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키
+ : wp-2026-09-21-2429fb9634]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-c1d88a8a5d@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:[1위] 미중 정상회담
+DESCRIPTION:한국장 영향 세션: 2026-09-28(월)\n지배 기준: ②비
+ 대칭 + ③수렴\n출처 성격: 확정 캘린더\n\n출처: 주간 프
+ 리뷰(2026-09-21 주) · P1 영향도 랭킹\n자동 생성: weekly_previ
+ ew_calendar.py (맥미니)\n[동기화 키: wp-2026-09-21-c1d88a8a5d]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-071705c06d@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:[4위] S&P Global 9월 PMI 플래시(미국)
+DESCRIPTION:한국장 영향 세션: 2026-09-28(월)\n지배 기준: ①KST
+  시점 + ⑤비가역성\n출처 성격: 확정 캘린더\n\n출처: 주
+ 간 프리뷰(2026-09-21 주) · P1 영향도 랭킹\n자동 생성: weekl
+ y_preview_calendar.py (맥미니)\n[동기화 키: wp-2026-09-21-071705c06
+ d]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-c5f71f1bbe@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:[6위] Costco 실적
+DESCRIPTION:한국장 영향 세션: 2026-09-28(월)\n출처 성격: 확정
+  캘린더\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭
+ 킹\n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키
+ : wp-2026-09-21-c5f71f1bbe]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-8b122e7bcf@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:[6위] Darden 실적(FY2027 1분기)
+DESCRIPTION:한국장 영향 세션: 2026-09-28(월)\n출처 성격: 확정
+  캘린더\n\n출처: 주간 프리뷰(2026-09-21 주) · P1 영향도 랭
+ 킹\n자동 생성: weekly_preview_calendar.py (맥미니)\n[동기화 키
+ : wp-2026-09-21-8b122e7bcf]
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wp-2026-09-21-8ca930b44f@weekly-preview.ssenepodd
+DTSTAMP:20260920T204455Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:[6위] 미국 8월 신규주택판매
+DESCRIPTION:한국장 영향 세션: 2026-09-28(월)\n지배 기준: ①KST
+  시점(휴장 이월)\n출처 성격: 확정 캘린더\n\n출처: 주간 
+ 프리뷰(2026-09-21 주) · P1 영향도 랭킹\n자동 생성: weekly_pr
+ eview_calendar.py (맥미니)\n[동기화 키: wp-2026-09-21-8ca930b44f]
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
